@@ -20,5 +20,5 @@ export const ModalWindow = styled.div`
 `;
 
 export const Img = styled.img`
-  width: 100vw;
+  width: 75vw;
 `;
