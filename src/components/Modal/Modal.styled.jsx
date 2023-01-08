@@ -13,7 +13,12 @@ export const Overlay = styled.div`
   background-color: rgba(0, 0, 0, 0.8);
   z-index: 1200;
 `;
+
 export const ModalWindow = styled.div`
   position: absolute;
   max-height: calc(100vh - 24px);
+`;
+
+export const Img = styled.img`
+  width: 100vw;
 `;
